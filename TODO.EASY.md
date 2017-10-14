@@ -4,7 +4,6 @@
   
 - fix parser error message
   - Parse Errors [#241](https://github.com/ucsd-progsys/liquidhaskell/issues/241)
-  - Liquid Haskell doesn't accept Haskell names containing ' (single-quote) [#273](https://github.com/ucsd-progsys/liquidhaskell/issues/273)
   - Error messages [#400](https://github.com/ucsd-progsys/liquidhaskell/issues/400)
   - Add list of reserved tokens
 
